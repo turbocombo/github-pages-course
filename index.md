@@ -1,7 +1,7 @@
 ---
-title: Ignore it for now
+title: Home
 ---
 
 # What
 
-This is a test page.
+This is the entry page.
