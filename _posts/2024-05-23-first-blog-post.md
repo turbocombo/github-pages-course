@@ -5,4 +5,4 @@ date: 2024-05-23
 
 # What
 
-First draft of my blog post.
+This is the first draft of my first blog post.
